@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Azteca uno">
+    <display-name lang="es">Azteca uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="LAS ESTRELLAS">
+    <display-name lang="es">LAS ESTRELLAS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="A MAS">
+    <display-name lang="es">A MAS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ADN 40">
+    <display-name lang="es">ADN 40</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL 5">
+    <display-name lang="es">CANAL 5</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20230408030000 -0500" stop="20230408031500 -0500" channel="Azteca uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20230408031500 -0500" stop="20230408040000 -0500" channel="Azteca uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230408040000 -0500" stop="20230408043000 -0500" channel="Azteca uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230408043000 -0500" stop="20230408050000 -0500" channel="Azteca uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230408050000 -0500" stop="20230408070000 -0500" channel="Azteca uno">
+    <title lang="es">Cristo 70</title>
+  </programme>
+  <programme start="20230408070000 -0500" stop="20230408080000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20230408080000 -0500" stop="20230408120000 -0500" channel="Azteca uno">
+    <title lang="es">Venga la alegría
+
+En Vivo</title>
+  </programme>
+  <programme start="20230408120000 -0500" stop="20230408140000 -0500" channel="Azteca uno">
+    <title lang="es">Mi pareja puede</title>
+  </programme>
+  <programme start="20230408140000 -0500" stop="20230408160000 -0500" channel="Azteca uno">
+    <title lang="es">Sábado al extremo</title>
+  </programme>
+  <programme start="20230408160000 -0500" stop="20230408180000 -0500" channel="Azteca uno">
+    <title lang="es">Rutas de la Vida</title>
+  </programme>
+  <programme start="20230408180000 -0500" stop="20230408200000 -0500" channel="Azteca uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20230408200000 -0500" stop="20230408210000 -0500" channel="Azteca uno">
+    <title lang="es">Hasta que te conocí</title>
+  </programme>
+  <programme start="20230408210000 -0500" stop="20230408230000 -0500" channel="Azteca uno">
+    <title lang="es">Rosario tijeras</title>
+  </programme>
+  <programme start="20230408230000 -0500" stop="20230409010000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230409010000 -0500" stop="20230409030000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230409030000 -0500" stop="20230409040000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230409040000 -0500" stop="20230409043000 -0500" channel="Azteca uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230409043000 -0500" stop="20230409050000 -0500" channel="Azteca uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230409050000 -0500" stop="20230409060000 -0500" channel="Azteca uno">
+    <title lang="es">Cuatro Vidas</title>
+  </programme>
+  <programme start="20230409060000 -0500" stop="20230409070000 -0500" channel="Azteca uno">
+    <title lang="es">Santa Misa Domingo</title>
+  </programme>
+  <programme start="20230409070000 -0500" stop="20230409080000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20230409080000 -0500" stop="20230409120000 -0500" channel="Azteca uno">
+    <title lang="es">Venga la alegría
+
+En Vivo</title>
+  </programme>
+  <programme start="20230409120000 -0500" stop="20230409130000 -0500" channel="Azteca uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230409130000 -0500" stop="20230409150000 -0500" channel="Azteca uno">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20230409150000 -0500" stop="20230409170000 -0500" channel="Azteca uno">
+    <title lang="es">Supertitlán</title>
+  </programme>
+  <programme start="20230409170000 -0500" stop="20230409190000 -0500" channel="Azteca uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20230409190000 -0500" stop="20230409221500 -0500" channel="Azteca uno">
+    <title lang="es">Exatlón All Star 2023</title>
+  </programme>
+  <programme start="20230409221500 -0500" stop="20230409231500 -0500" channel="Azteca uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20230409231500 -0500" stop="20230409234500 -0500" channel="Azteca uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20230409234500 -0500" stop="20230410014500 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230410014500 -0500" stop="20230410034500 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230410034500 -0500" stop="20230410040000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230410040000 -0500" stop="20230410043000 -0500" channel="Azteca uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230410043000 -0500" stop="20230410050000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230410050000 -0500" stop="20230410060000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos A.M Primera Línea</title>
+  </programme>
+  <programme start="20230410060000 -0500" stop="20230410070000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20230410070000 -0500" stop="20230410080000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20230410080000 -0500" stop="20230410120000 -0500" channel="Azteca uno">
+    <title lang="es">Venga la alegría
+
+En Vivo</title>
+  </programme>
+  <programme start="20230410120000 -0500" stop="20230410130000 -0500" channel="Azteca uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20230410130000 -0500" stop="20230410140000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230410140000 -0500" stop="20230410150000 -0500" channel="Azteca uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20230410150000 -0500" stop="20230410160000 -0500" channel="Azteca uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230410160000 -0500" stop="20230410170000 -0500" channel="Azteca uno">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20230410170000 -0500" stop="20230410183000 -0500" channel="Azteca uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230410183000 -0500" stop="20230410193000 -0500" channel="Azteca uno">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20230410193000 -0500" stop="20230410213000 -0500" channel="Azteca uno">
+    <title lang="es">Exatlón All Star 2023</title>
+  </programme>
+  <programme start="20230410213000 -0500" stop="20230410221500 -0500" channel="Azteca uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20230410221500 -0500" stop="20230410223000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230410223000 -0500" stop="20230410230000 -0500" channel="Azteca uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230410230000 -0500" stop="20230411000000 -0500" channel="Azteca uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20230411000000 -0500" stop="20230411040000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230411040000 -0500" stop="20230411043000 -0500" channel="Azteca uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230411043000 -0500" stop="20230411050000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230411050000 -0500" stop="20230411060000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos A.M Primera Línea</title>
+  </programme>
+  <programme start="20230411060000 -0500" stop="20230411070000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20230411070000 -0500" stop="20230411080000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20230411080000 -0500" stop="20230411120000 -0500" channel="Azteca uno">
+    <title lang="es">Venga la alegría
+
+En Vivo</title>
+  </programme>
+  <programme start="20230411120000 -0500" stop="20230411130000 -0500" channel="Azteca uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20230411130000 -0500" stop="20230411140000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230411140000 -0500" stop="20230411150000 -0500" channel="Azteca uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20230411150000 -0500" stop="20230411160000 -0500" channel="Azteca uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230411160000 -0500" stop="20230411170000 -0500" channel="Azteca uno">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20230411170000 -0500" stop="20230411183000 -0500" channel="Azteca uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230411183000 -0500" stop="20230411193000 -0500" channel="Azteca uno">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20230411193000 -0500" stop="20230411213000 -0500" channel="Azteca uno">
+    <title lang="es">Exatlón All Star 2023</title>
+  </programme>
+  <programme start="20230411213000 -0500" stop="20230411221500 -0500" channel="Azteca uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20230411221500 -0500" stop="20230411223000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230411223000 -0500" stop="20230411230000 -0500" channel="Azteca uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230411230000 -0500" stop="20230412000000 -0500" channel="Azteca uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20230412000000 -0500" stop="20230412040000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230412040000 -0500" stop="20230412043000 -0500" channel="Azteca uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230412043000 -0500" stop="20230412050000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230412050000 -0500" stop="20230412060000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos A.M Primera Línea</title>
+  </programme>
+  <programme start="20230412060000 -0500" stop="20230412070000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20230412070000 -0500" stop="20230412080000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20230412080000 -0500" stop="20230412120000 -0500" channel="Azteca uno">
+    <title lang="es">Venga la alegría
+
+En Vivo</title>
+  </programme>
+  <programme start="20230412120000 -0500" stop="20230412130000 -0500" channel="Azteca uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20230412130000 -0500" stop="20230412140000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230412140000 -0500" stop="20230412150000 -0500" channel="Azteca uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20230412150000 -0500" stop="20230412160000 -0500" channel="Azteca uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230412160000 -0500" stop="20230412170000 -0500" channel="Azteca uno">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20230412170000 -0500" stop="20230412183000 -0500" channel="Azteca uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230412183000 -0500" stop="20230412193000 -0500" channel="Azteca uno">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20230412193000 -0500" stop="20230412213000 -0500" channel="Azteca uno">
+    <title lang="es">Exatlón All Star 2023</title>
+  </programme>
+  <programme start="20230412213000 -0500" stop="20230412221500 -0500" channel="Azteca uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20230412221500 -0500" stop="20230412223000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230412223000 -0500" stop="20230412230000 -0500" channel="Azteca uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230412230000 -0500" stop="20230413000000 -0500" channel="Azteca uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20230413000000 -0500" stop="20230413040000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230413040000 -0500" stop="20230413043000 -0500" channel="Azteca uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230413043000 -0500" stop="20230413050000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230413050000 -0500" stop="20230413060000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos A.M Primera Línea</title>
+  </programme>
+  <programme start="20230413060000 -0500" stop="20230413070000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20230413070000 -0500" stop="20230413080000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20230413080000 -0500" stop="20230413120000 -0500" channel="Azteca uno">
+    <title lang="es">Venga la alegría
+
+En Vivo</title>
+  </programme>
+  <programme start="20230413120000 -0500" stop="20230413130000 -0500" channel="Azteca uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20230413130000 -0500" stop="20230413140000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230413140000 -0500" stop="20230413150000 -0500" channel="Azteca uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20230413150000 -0500" stop="20230413160000 -0500" channel="Azteca uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230413160000 -0500" stop="20230413170000 -0500" channel="Azteca uno">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20230413170000 -0500" stop="20230413183000 -0500" channel="Azteca uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230413183000 -0500" stop="20230413193000 -0500" channel="Azteca uno">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20230413193000 -0500" stop="20230413213000 -0500" channel="Azteca uno">
+    <title lang="es">Exatlón All Star 2023</title>
+  </programme>
+  <programme start="20230413213000 -0500" stop="20230413221500 -0500" channel="Azteca uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20230413221500 -0500" stop="20230413223000 -0500" channel="Azteca uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230413223000 -0500" stop="20230413230000 -0500" channel="Azteca uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230413230000 -0500" stop="20230414000000 -0500" channel="Azteca uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20230414000000 -0500" stop="20230414040000 -0500" channel="Azteca uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+</tv>
