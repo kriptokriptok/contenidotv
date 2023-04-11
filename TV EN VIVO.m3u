@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kriptokriptok/contenidotv/main/guide.xml"
 #EXTINF:-1 tvg-id="Azteca uno" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2e62990/2147483647/strip/true/crop/199x46+0+0/resize/199x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F78%2F27%2F95e8ddb34a27ab94ec89a2291afa%2Faztecauno-199-46.png" group-title="TV",Azteca uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=AUfdAk4Y2tYO9AzNim7cwFIgv9R9qwBe&sid=9XXmDTnjg2ZN57sQQCYazYLkO07bSAmh&pid=yLVm9SXujBdpZVVKS8sjBPiQv3xufKVL&an=screen&at=web-app&av=v5.2.329&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=938x528&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV",Las Estrellas
