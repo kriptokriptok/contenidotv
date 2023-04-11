@@ -93,7 +93,7 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=205&f=.
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="TV",FX
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="TV",A&E
+#EXTINF:-1 tvg-id="AyE" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="TV",A&E
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
 #EXTINF:-1 tvg-id="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="TV",UNICABLE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
@@ -129,7 +129,7 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=381&f=.
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV",DISCOVERY TURBO
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
-#EXTINF:-1 tvg-id="H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV",H&H
+#EXTINF:-1 tvg-id="HyH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV",H&H
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=374&f=.m3u8
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="TV",HISTORY
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
@@ -325,6 +325,12 @@ http://176.57.50.167:25461/860424/987010/5100
 http://176.57.50.167:25461/860424/987010/5098
 #EXTINF:-1 tvg-id="ESPN 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="TV",ESPN 3 SUR
 http://176.57.50.167:25461/860424/987010/5099
+#EXTINF:-1 tvg-id="FOX SPORTS SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="TV",FOX SPORTS SUR
+http://176.57.50.167:25461/860424/987010/5118
+#EXTINF:-1 tvg-id="FOX SPORTS 2 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="TV",FOX SPORTS 2 SUR
+http://176.57.50.167:25461/860424/987010/5116
+#EXTINF:-1 tvg-id="FOX SPORTS 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="TV",FOX SPORTS 3 SUR
+http://176.57.50.167:25461/860424/987010/5117
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="TV",MTV
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=726&f=.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Comedy-Central-Productions-Logo.png" group-title="TV",COMEDY CENTRAL
