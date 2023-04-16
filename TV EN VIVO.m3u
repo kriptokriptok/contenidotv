@@ -37,6 +37,8 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=167&f=.
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
 #EXTINF:-1 tvg-id="TELEVISA PUEBLA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online.png" group-title="TV",TELEVISA PUEBLA
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
+#EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FNoticias_Caracol&psig=AOvVaw0HmzzP8A-kwB9pAR9pu7uJ&ust=1681772117065000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiD-7-_r_4CFQAAAAAdAAAAABAE" group-title="TV",Caracol Noticias
+http://new-tv.cloud:25461/jcloud500/perumas50/177599
 #EXTINF:-1 tvg-id="34.1" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2019/10/15164419/logo-SRTVM-01.png" group-title="TV",34.1
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/640px-ATV_logo_2020.png" group-title="TV",ATV
@@ -100,7 +102,7 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=218&f=.
 #EXTINF:-1 tvg-id="TELEMUNDO INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="TV",TELEMUNDO INTERNACIONAL
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="TV",Caracol
-http://176.57.50.167:25461/860424/987010/61751
+http://new-tv.cloud:25461/jcloud500/perumas50/177600
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TV",Pasiones
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=51&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="AZ CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="TV",AZ CORAZON
@@ -134,9 +136,9 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=374&f=.
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="TV",HISTORY
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="TV",H2
-http://176.57.50.167:25461/860424/987010/5125
+http://new-tv.cloud:25461/jcloud500/perumas50/174678
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlc-mediano.png" group-title="TV",TLC
-http://176.57.50.167:25461/860424/987010/61346
+http://new-tv.cloud:25461/jcloud500/perumas50/174671
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV",HGTV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
 #EXTINF:-1 tvg-id="The Weather Channel Es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="TV",The Weather Channel Es
@@ -195,26 +197,40 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
 #EXTINF:-1 tvg-id="D PELICULA PLUS" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="TV",D PELICULA PLUS
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
+#EXTINF:-1 tvg-id="De Película Clásico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="TV",De Película Clásico
+http://new-tv.cloud:25461/jcloud500/perumas50/173910
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1280px-TV_Azteca_Cinema_logo.svg.png" group-title="TV",AZ CINEMA
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=425&f=.m3u8
 #EXTINF:-1 tvg-id="A3CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="TV",A3CINE
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3112&f=.m3u8
 #EXTINF:-1 tvg-id="A3SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Atreseries_2020_logo.svg" group-title="TV",A3SERIES
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2113&f=.m3u8
+#EXTINF:-1 tvg-id="MicroVision" tvg-logo="https://yt3.googleusercontent.com/iqfs13ABvmXSMJmvzdQqtmGCP_WOzICLaSHfnR8Y8ASCXZ-zQb3OzRJZliw-tGdrBVg8Ppf24g=s900-c-k-c0x00ffffff-no-rj" group-title="TV",MicroVision
+http://new-tv.cloud:25461/jcloud500/perumas50/186868
+#EXTINF:-1 tvg-id="Pelimex" tvg-logo="https://rlaxxtv.com/wp-content/uploads/2023/03/pelimex_logo.jpg" group-title="TV",Pelimex
+http://new-tv.cloud:25461/jcloud500/perumas50/533525
+#EXTINF:-1 tvg-id="Accion Mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" group-title="TV",Accion Mexicana
+http://new-tv.cloud:25461/jcloud500/perumas50/533524
 #EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="TV",GOLDEN
-http://176.57.50.167:25461/860424/987010/61303
+http://new-tv.cloud:25461/jcloud500/perumas50/173904
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png" group-title="TV",GOLDEN EDGE
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=484&f=.m3u8
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="TV",GOLDEN PLUS
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=436&f=.m3u8
 #EXTINF:-1 tvg-id="Golden Premier" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="TV",Golden Premier
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=75&key=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="Golden Premiere 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="TV",Golden Premiere 2
+http://new-tv.cloud:25461/jcloud500/perumas50/319988
+#EXTINF:-1 tvg-id="Cine Dinamita" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV",Cine Dinamita
+http://new-tv.cloud:25461/jcloud500/perumas50/173908
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png" group-title="TV",Cine Latino
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=84&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Cine Latino US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png" group-title="TV",Cine Latino US
 http://176.57.50.167:25461/860424/987010/61759
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV",CINECANAL
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=430&f=.m3u8
+#EXTINF:-1 tvg-id="Multipremier" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Multipremier_logo_2020.png/revision/latest?cb=20201129220038&path-prefix=es" group-title="TV",Multipremier
+http://new-tv.cloud:25461/jcloud500/perumas50/173902
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/2048px-TNT_Logo_2016.svg.png" group-title="TV",TNT
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest?cb=20200116195222&path-prefix=es" group-title="TV",TNT SERIES
@@ -246,7 +262,7 @@ https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=37&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Star Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg" group-title="TV",Star Life
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=72&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="M+ ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="TV",M+ ESTRENOS
-http://pro.netmos.ovh:7355/davidIptvskype/liveb4e4752df0629ee4/1283
+http://new-tv.cloud:25461/jcloud500/perumas50/182637
 #EXTINF:-1 tvg-id="M+ ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="TV",M+ ACCION
 http://pro.netmos.ovh:7355/davidIptvskype/liveb4e4752df0629ee4/1289
 #EXTINF:-1 tvg-id="M+ CINE N" tvg-logo="data:image/png;base64,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" group-title="TV",M+ CINE N
@@ -268,9 +284,9 @@ https://regioplay.xyz/php/SR_REGIO_314023_/distroregio.php?token=SrRegio&c=horro
 #EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png" group-title="TV",CLARO SPORTS
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="TV",TUDN
-http://176.57.50.167:25461/860424/987010/61342
+http://new-tv.cloud:25461/jcloud500/perumas50/174212
 #EXTINF:-1 tvg-id="TUDN US" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="TV",TUDN US
-http://176.57.50.167:25461/860424/987010/61873
+http://new-tv.cloud:25461/jcloud500/perumas50/174215
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="TV",ESPN
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6sd4XYJ7hZpFk_rBCXPUUmGSzoklx763_8Gl8N2o5NAuAB-rsv4SwVtzXLMS0qUofrg&usqp=CAU" group-title="TV",Espn 2
@@ -280,25 +296,31 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=520&f=.
 #EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV",Espn 4
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=167&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png" group-title="TV",ESPN EXTRA
-http://176.57.50.167:25461/860424/987010/61278
+http://new-tv.cloud:25461/jcloud500/perumas50/524701
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_deportes-mediano.png" group-title="TV",ESPN Deportes
-http://176.57.50.167:25461/860424/987010/61890
+http://new-tv.cloud:25461/jcloud500/perumas50/524708
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="TV",FOX SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/524736
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="TV",FOX SPORTS 2
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=527&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/524737
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="TV",FOX SPORTS 3
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/524738
 #EXTINF:-1 tvg-id="Fox Sports Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="TV",Fox Sports Premium
-https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=364&key=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/524739
 #EXTINF:-1 tvg-id="Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV",Afizzionados
 http://regioplay.xyz/php/SR_REGIO_314023_/vix.php?c=348&pid=348&f=tokeen=regio_
+#EXTINF:-1 tvg-id="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="TV",TNT SPORT
+http://new-tv.cloud:25461/jcloud500/perumas50/524742
+#EXTINF:-1 tvg-id="TNT SPORTS (CL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="TV",TNT SPORTS (CL)
+http://new-tv.cloud:25461/jcloud500/perumas50/524750
+#EXTINF:-1 tvg-id="TNT SPORTS 3 (CL)" tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fes%2Fwiki%2FTNT_Sports_3_%2528Chile%2529&psig=AOvVaw3QS2LlAOtTGbIk4xGW_meZ&ust=1681770247150000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIi3osS4r_4CFQAAAAAdAAAAABAE" group-title="TV",TNT SPORTS 3 (CL)
+http://new-tv.cloud:25461/jcloud500/perumas50/524749
 #EXTINF:-1 tvg-id="Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="TV",Directv Sports
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=20&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Directv Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="TV",Directv Sports Plus
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=22&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="TV",GOLTV
-http://176.57.50.167:25461/860424/987010/11467
+http://new-tv.cloud:25461/jcloud500/perumas50/525171
 #EXTINF:-1 tvg-id="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tvc_dep.jpg" group-title="TV",TVC DEPORTES
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2157&f=.m3u8
 #EXTINF:-1 tvg-id="PX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png" group-title="TV",PX SPORTS
@@ -306,9 +328,9 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=528&f=.
 #EXTINF:-1 tvg-id="AYM SPORTS" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/8/8f/AYMSportslogo.jpg/revision/latest?cb=20160110005121&path-prefix=es" group-title="TV",AYM SPORTS
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=576&f=.m3u8
 #EXTINF:-1 tvg-id="Tigo Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="TV",Tigo Sports
-http://176.57.50.167:25461/860424/987010/61734
+http://new-tv.cloud:25461/jcloud500/perumas50/525197
 #EXTINF:-1 tvg-id="Rai Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg" group-title="TV",Rai Sport
-http://176.57.50.167:25461/860424/987010/83429
+http://new-tv.cloud:25461/jcloud500/perumas50/525254
 #EXTINF:-1 tvg-id="Bein Sports Xtra" tvg-logo="https://www.beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="TV",Bein Sports Xtra
 http://regioplay.xyz/php/SR_REGIO_314023_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ADRENALINA SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/AdrenalinaSportsNetwork.png/revision/latest?cb=20190116002950" group-title="TV",ADRENALINA SPORTS
@@ -318,19 +340,21 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="LIGA1MAX" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="TV",LIGA1MAX
 https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=139&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="WinSports" tvg-logo="https://files.winsports.co/assets/public/logo_winsports_032023.png" group-title="TV",WinSports
-http://176.57.50.167:25461/860424/987010/11465
+http://new-tv.cloud:25461/jcloud500/perumas50/175969
 #EXTINF:-1 tvg-id="ESPN SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="TV",ESPN SUR
-http://176.57.50.167:25461/860424/987010/5100
+http://new-tv.cloud:25461/jcloud500/perumas50/524702
 #EXTINF:-1 tvg-id="ESPN 2 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="TV",ESPN 2 SUR
-http://176.57.50.167:25461/860424/987010/5098
+http://new-tv.cloud:25461/jcloud500/perumas50/524703
 #EXTINF:-1 tvg-id="ESPN 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="TV",ESPN 3 SUR
 http://176.57.50.167:25461/860424/987010/5099
+#EXTINF:-1 tvg-id="ESPN EXTRA SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png" group-title="TV",ESPN EXTRA SUR
+http://new-tv.cloud:25461/jcloud500/perumas50/524706
 #EXTINF:-1 tvg-id="FOX SPORTS SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="TV",FOX SPORTS SUR
-http://176.57.50.167:25461/860424/987010/5118
+http://new-tv.cloud:25461/jcloud500/perumas50/524725
 #EXTINF:-1 tvg-id="FOX SPORTS 2 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="TV",FOX SPORTS 2 SUR
-http://176.57.50.167:25461/860424/987010/5116
+http://new-tv.cloud:25461/jcloud500/perumas50/524726
 #EXTINF:-1 tvg-id="FOX SPORTS 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="TV",FOX SPORTS 3 SUR
-http://176.57.50.167:25461/860424/987010/5117
+http://new-tv.cloud:25461/jcloud500/perumas50/524727
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="TV",MTV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=726&f=.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Comedy-Central-Productions-Logo.png" group-title="TV",COMEDY CENTRAL
@@ -351,5 +375,3 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=731&f=.
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=732&f=.m3u8
 #EXTINF:-1 tvg-id="MMC" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/mmc-1.png" group-title="TV",MMC
 https://regioplay.xyz/php/SR_REGIO_314023_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TNT SPORT
-http://new-tv.cloud:25461/jcloud500/perumas50/524742
