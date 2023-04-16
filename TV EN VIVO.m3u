@@ -351,3 +351,5 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=731&f=.
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=732&f=.m3u8
 #EXTINF:-1 tvg-id="MMC" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/mmc-1.png" group-title="TV",MMC
 https://regioplay.xyz/php/SR_REGIO_314023_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TNT SPORT
+http://new-tv.cloud:25461/jcloud500/perumas50/524742
