@@ -50,7 +50,7 @@ http://new-tv.cloud:25461/jcloud500/perumas50/524725
 http://new-tv.cloud:25461/jcloud500/perumas50/524726
 #EXTINF:-1 tvg-id="FOX SPORTS 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="TV",FOX SPORTS 3 SUR
 http://new-tv.cloud:25461/jcloud500/perumas50/524727
-#EXTINF:-1, napoli vs milan (espn)
-http://new-tv.cloud:25461/live/jcloud500/perumas50/535090.m3u8
-#EXTINF:-1 , napoli vs milan (campeones)
-http://new-tv.cloud:25461/live/jcloud500/perumas50/535091.m3u8
+#EXTINF:-1, BAYER M. vs M. CITY
+http://new-tv.cloud:25461/live/jcloud500/perumas50/535470.m3u8
+#EXTINF:-1 , BAYER M. vs M. CITY (TUDN)
+http://new-tv.cloud:25461/live/jcloud500/perumas50/535471.m3u8
