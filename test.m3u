@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Azteca uno" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2e62990/2147483647/strip/true/crop/199x46+0+0/resize/199x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F78%2F27%2F95e8ddb34a27ab94ec89a2291afa%2Faztecauno-199-46.png" group-title="TV",Azteca uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8?uid=AUfdAk4Y2tYO9AzNim7cwFIgv9R9qwBe&sid=9XXmDTnjg2ZN57sQQCYazYLkO07bSAmh&pid=yLVm9SXujBdpZVVKS8sjBPiQv3xufKVL&an=screen&at=web-app&av=v5.2.329&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=938x528&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV",Las Estrellas
+http://new-tv.cloud:25461/jcloud500/perumas50/173038
+#EXTINF:-1 tvg-id="A MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/1200px-A%2B_2021.svg.png" group-title="TV",A MAS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/a8ecd88/2147483647/strip/true/crop/588x208+0+0/resize/1300x460!/quality/100/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png" group-title="TV",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=yuMSyBFc6N7jbJomijoaN6yNVuhYO851&sid=dlzElda2RtfXvDxsIeftgGYPvk2hPsXB&pid=23NWO08Ct2GY8hXq6t5w7q0W4SRRKiCH&an=screen&at=web-app&av=v5.2.329&ref=https%3A%2F%2Flive.adn40.mx%2F&res=1366x659&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="TV",CANAL 5
+http://new-tv.cloud:25461/jcloud500/perumas50/173043
+#EXTINF:-1 tvg-id="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" group-title="TV",FORO TV
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=104&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/ba58288/2147483647/strip/true/crop/384x186+0+0/resize/95x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fdd%2F3b%2F3a4f2f4c42bca144c50ea9616f97%2Flogo7blanco.png" group-title="TV",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?uid=AUfdAk4Y2tYO9AzNim7cwFIgv9R9qwBe&sid=9XXmDTnjg2ZN57sQQCYazYLkO07bSAmh&pid=3W0wpcjqE9mlu1xGHdU0lja40Ip7gEXv&an=screen&at=web-app&av=v5.2.329&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=938x528&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="TV",FOX NEWS
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=188&f=.m3u8
+
+
+
+---------------------------------------------peliculas----------------------------------------------
+#EXTINF:-1 tvg-name="Black Adam (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/87cr9s6zftMp8MLXCMHeGfKuPVL.jpg" group-title="Peliculas",Black Adam (2022)
+http://new-tv.cloud:25461/movie/jcloud500/perumas50/391424.mkv
