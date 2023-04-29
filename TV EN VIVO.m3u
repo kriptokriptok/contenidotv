@@ -10,55 +10,55 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=yuMSyB
 #EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="TV",CANAL 5
 http://new-tv.cloud:25461/jcloud500/perumas50/173043
 #EXTINF:-1 tvg-id="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" group-title="TV",FORO TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=104&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/216170
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/ba58288/2147483647/strip/true/crop/384x186+0+0/resize/95x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fdd%2F3b%2F3a4f2f4c42bca144c50ea9616f97%2Flogo7blanco.png" group-title="TV",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?uid=AUfdAk4Y2tYO9AzNim7cwFIgv9R9qwBe&sid=9XXmDTnjg2ZN57sQQCYazYLkO07bSAmh&pid=3W0wpcjqE9mlu1xGHdU0lja40Ip7gEXv&an=screen&at=web-app&av=v5.2.329&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=938x528&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="TV",FOX NEWS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=188&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/536101
 #EXTINF:-1 tvg-id="NU9VE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png" group-title="TV",NU9VE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173033
 #EXTINF:-1 tvg-id="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV",IMAGEN TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173040
 #EXTINF:-1 tvg-id="ONCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="TV",ONCE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1825&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173042
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="TV",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-id="Galavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV",Galavision
-https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=55&key=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/183895
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="TV",Univision
-https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=62&key=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/199765
 #EXTINF:-1 tvg-id="ANTENA 3 INT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="TV",ANTENA 3 INT
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=199&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/182618
 #EXTINF:-1 tvg-id="Az click" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="TV",Az click 
-https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=127&key=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173048
 #EXTINF:-1 tvg-id="CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1461px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV",CANAL 6
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=167&f=.m3u8
 #EXTINF:-1 tvg-id="TELEVISA MTY" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/09/Televisa-Monterrey-en-vivo.png" group-title="TV",TELEVISA MTY
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173030
 #EXTINF:-1 tvg-id="TELEVISA PUEBLA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online.png" group-title="TV",TELEVISA PUEBLA
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
 #EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FNoticias_Caracol&psig=AOvVaw0HmzzP8A-kwB9pAR9pu7uJ&ust=1681772117065000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiD-7-_r_4CFQAAAAAdAAAAABAE" group-title="TV",Caracol Noticias
 http://new-tv.cloud:25461/jcloud500/perumas50/177599
 #EXTINF:-1 tvg-id="34.1" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2019/10/15164419/logo-SRTVM-01.png" group-title="TV",34.1
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/175661
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/640px-ATV_logo_2020.png" group-title="TV",ATV
-https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=61&key=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/190923
 #EXTINF:-1 tvg-id="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="TV",Atv+
 http://regioplay.xyz/php/SR_REGIO_314023_/vix.php?c=258&pid=258&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png" group-title="TV",Euronews
-http://regioplay.xyz/php/SR_REGIO_314023_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/171656
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="TV",FRANCE 24
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2402&f=.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://w7.pngwing.com/pngs/820/447/png-transparent-bbc-news-logo-others-television-text-logo.png" group-title="TV",BBC NEWS
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=191&f=.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/CNN-logo-1.jpg" group-title="TV",CNN
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=185&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/171678
 #EXTINF:-1 tvg-id="CNN ESP" tvg-logo="https://yt3.googleusercontent.com/4iucOmXrBE_2ia1SOhC-AoJf9AvxMRn5yq_F2k4iuhlaZqhV1YRK1J3UgQ7vFkrgVHfnsCzT=s900-c-k-c0x00ffffff-no-rj" group-title="TV",CNN ESP
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/186467
 #EXTINF:-1 tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title="TV",RT
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=999&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/182645
 #EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://www.clasesdeperiodismo.com/wp-content/uploads/2015/03/bloombergs.jpg" group-title="TV",BLOOMBERG
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=190&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/452899
 #EXTINF:-1 tvg-id="AFV EN ESPAÑOL" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="TV",AFV EN ESPAÑOL
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AMX Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="TV",AMX Noticias
@@ -74,13 +74,13 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="FUEL TV" tvg-logo="https://seeklogo.com/images/F/fuel-tv-logo-3C3716497D-seeklogo.com.png" group-title="TV",FUEL TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2587&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/176676
 #EXTINF:-1 tvg-id="TELEFORMULA" tvg-logo="https://play-lh.googleusercontent.com/EORjcxkLnF7yY4QTWTFRI-8tuxOlwUJn1V04bWAxbYJtlx9aUorOK-xcvMW_MZkaU4Bk" group-title="TV",TELEFORMULA
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/186468
 #EXTINF:-1 tvg-id="EL FINANCIERO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPSZ3G09TRMI8DZBSYfp6nef7gilHNHcYKglI_KyjOTDlOrB6X9CU7NnPw9KQgqjjc4PF2rZq9aNTXLfLidJ1zr86gtDY73FgRCO41lcSO6UvST9wKl0IK56qds0vOP-oChDFmvAG9LQSYixjbiw7PNjk2-Z5cDT87fYJA_U03gaRLh9JLOlH0y7SR/s540/el-financiero-logoroku.png" group-title="TV",EL FINANCIERO
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2167&f=.m3u8
 #EXTINF:-1 tvg-id="Tn23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title="TV",Tn23
-http://regioplay.xyz/php/SR_REGIO_314023_/vix.php?c=259&pid=259&token=SrRegio&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/186079
 #EXTINF:-1 tvg-id="Aventuras TV" tvg-logo="" group-title="TV",Aventuras TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 5 de Sololatecos" tvg-logo="https://play-lh.googleusercontent.com/cJibduwasn792CrcDpJvAVoTBQBDj2jgquK_H-xMTVy8BJlgJYqVBHeW5Mxen3x9cYA" group-title="TV",Canal 5 de Sololatecos
@@ -88,53 +88,53 @@ http://204.12.202.90:8080/playgt/playgt2023/141
 #EXTINF:-1 tvg-id="Amazon Sat" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="TV",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="TV",STAR CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174178
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/640px-Warner2018LA.png" group-title="TV",WARNER
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174706
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",SONY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174701
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="TV",FX
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173906
 #EXTINF:-1 tvg-id="AyE" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="TV",A&E
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174690
 #EXTINF:-1 tvg-id="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="TV",UNICABLE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174705
 #EXTINF:-1 tvg-id="TELEMUNDO INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="TV",TELEMUNDO INTERNACIONAL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173608
 #EXTINF:-1 tvg-id="Caracol" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="TV",Caracol
 http://new-tv.cloud:25461/jcloud500/perumas50/177600
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TV",Pasiones
 http://new-tv.cloud:25461/jcloud500/perumas50/174707
 #EXTINF:-1 tvg-id="AZ CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="TV",AZ CORAZON
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173047
 #EXTINF:-1 tvg-id="TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TV",TLNOVELAS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174708
 #EXTINF:-1 tvg-id="STAR TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="TV",STAR TVE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2375&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/182646
 #EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://pbs.twimg.com/profile_images/1488627657696858117/vOM8ZHt7_400x400.jpg" group-title="TV",DISTRITO COMEDIA
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174693
 #EXTINF:-1 tvg-id="AZ MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/513521143131541504/aoMJpLzl_400x400.png" group-title="TV",AZ MUNDO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=276&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/173046
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="TV",ANIMAL PLANET
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2378&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174660
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="TV",DISCOVERY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=371&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174665
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo.png" group-title="TV",NAT GEO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=377&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174683
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV",DISCOVERY WORLD
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=356&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174670
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV",DISCOVERY THEATER
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=351&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174668
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="TV",DISCOVERY SCIENCE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=381&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/232726
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/375419690_IDDiscoveryLatinoamerica.png.0b9d81534f417ef49bd6f41ade2026b4.png" group-title="TV",DISCOVERY ID
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174667
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV",DISCOVERY TURBO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174669
 #EXTINF:-1 tvg-id="HyH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV",H&H
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=374&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174666
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="TV",HISTORY
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
+http://new-tv.cloud:25461/jcloud500/perumas50/174677
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="TV",H2
 http://new-tv.cloud:25461/jcloud500/perumas50/174678
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlc-mediano.png" group-title="TV",TLC
