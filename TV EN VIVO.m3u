@@ -312,35 +312,33 @@ http://new-tv.cloud:25461/jcloud500/perumas50/173901
 #EXTINF:-1 tvg-id="Horrorfy" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy.jpg" group-title="TV",Horrorfy
 https://regioplay.xyz/php/SR_REGIO_314023_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
 #EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO SPORTS
-http://new-tv.cloud:25461/jcloud500/perumas50/525177
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1461
 #EXTINF:-1 tvg-id="CLARO SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="TV",CLARO SPORTS 2
 http://new-tv.cloud:25461/jcloud500/perumas50/525180
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="DEPORTES",TUDN
-http://new-tv.cloud:25461/jcloud500/perumas50/174212
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/262194
 #EXTINF:-1 tvg-id="TUDN US" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="DEPORTES",TUDN US
-http://new-tv.cloud:25461/jcloud500/perumas50/174215
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/245567
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES",ESPN
-http://new-tv.cloud:25461/jcloud500/perumas50/524698
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/262192
 #EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6sd4XYJ7hZpFk_rBCXPUUmGSzoklx763_8Gl8N2o5NAuAB-rsv4SwVtzXLMS0qUofrg&usqp=CAU" group-title="DEPORTES",Espn 2
-http://new-tv.cloud:25461/jcloud500/perumas50/524699
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1328
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
-http://new-tv.cloud:25461/jcloud500/perumas50/524700
-#EXTINF:-1 tvg-id="Espn 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES",Espn 4
-http://new-tv.cloud:25461/jcloud500/perumas50/524705
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1323
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png" group-title="DEPORTES",ESPN EXTRA
-http://new-tv.cloud:25461/jcloud500/perumas50/524701
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1322
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_deportes-mediano.png" group-title="DEPORTES",ESPN Deportes
 http://new-tv.cloud:25461/jcloud500/perumas50/524708
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS
-http://new-tv.cloud:25461/jcloud500/perumas50/524736
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1324
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2
-http://new-tv.cloud:25461/jcloud500/perumas50/524737
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1325
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3
-http://new-tv.cloud:25461/jcloud500/perumas50/524738
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1329
 #EXTINF:-1 tvg-id="Fox Sports Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="DEPORTES",Fox Sports Premium
-http://new-tv.cloud:25461/jcloud500/perumas50/524739
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/285169
 #EXTINF:-1 tvg-id="Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",Afizzionados
-http://new-tv.cloud:25461/jcloud500/perumas50/525174
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/115776
 #EXTINF:-1 tvg-id="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT SPORT
 http://new-tv.cloud:25461/jcloud500/perumas50/524742
 #EXTINF:-1 tvg-id="TNT SPORTS (CL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT SPORTS (CL)
@@ -381,6 +379,8 @@ http://new-tv.cloud:25461/jcloud500/perumas50/524702
 http://new-tv.cloud:25461/jcloud500/perumas50/524703
 #EXTINF:-1 tvg-id="ESPN 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="DEPORTES",ESPN 3 SUR
 http://new-tv.cloud:25461/jcloud500/perumas50/524704
+#EXTINF:-1 tvg-id="Espn 4 sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES",Espn 4 sur
+http://new-tv.cloud:25461/jcloud500/perumas50/524705
 #EXTINF:-1 tvg-id="ESPN EXTRA SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png" group-title="DEPORTES",ESPN EXTRA SUR
 http://new-tv.cloud:25461/jcloud500/perumas50/524706
 #EXTINF:-1 tvg-id="FOX SPORTS SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORTS SUR
