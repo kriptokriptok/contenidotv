@@ -116,11 +116,11 @@ http://new-tv.cloud:25461/jcloud500/perumas50/174693
 #EXTINF:-1 tvg-id="AZ MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/513521143131541504/aoMJpLzl_400x400.png" group-title="TV",AZ MUNDO
 http://new-tv.cloud:25461/jcloud500/perumas50/173046
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="TV",ANIMAL PLANET
-http://new-tv.cloud:25461/jcloud500/perumas50/174660
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/79
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8.png" group-title="TV",DISCOVERY CHANNEL
-http://new-tv.cloud:25461/jcloud500/perumas50/174665
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/78
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo.png" group-title="TV",NAT GEO
-http://new-tv.cloud:25461/jcloud500/perumas50/174683
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/80
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV",DISCOVERY WORLD
 http://new-tv.cloud:25461/jcloud500/perumas50/174670
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV",DISCOVERY THEATER
@@ -140,7 +140,7 @@ http://new-tv.cloud:25461/jcloud500/perumas50/174678
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tlc-mediano.png" group-title="TV",TLC
 http://new-tv.cloud:25461/jcloud500/perumas50/174671
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV",HGTV
-http://new-tv.cloud:25461/jcloud500/perumas50/174675
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/257650
 #EXTINF:-1 tvg-id="The Weather Channel Es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="TV",The Weather Channel Es
 http://regioplay.xyz/php/SR_REGIO_314023_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="E!" tvg-logo="https://cdn.mitvstatic.com/channels/cl_entertainment-television_m.png" group-title="TV",E!
@@ -200,9 +200,9 @@ http://new-tv.cloud:25461/jcloud500/perumas50/195847
 #EXTINF:-1 tvg-id="LOCOMOTION" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/6c/LocomotionGrande.png/revision/latest?cb=20150722124646&path-prefix=es" group-title="TV",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="D PELICULA" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2012.png" group-title="TV",D PELICULA
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/131
 #EXTINF:-1 tvg-id="D PELICULA PLUS" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="TV",D PELICULA PLUS
-http://new-tv.cloud:25461/jcloud500/perumas50/173909
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/123
 #EXTINF:-1 tvg-id="De Película Clásico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="TV",De Película Clásico
 http://new-tv.cloud:25461/jcloud500/perumas50/173910
 #EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1280px-TV_Azteca_Cinema_logo.svg.png" group-title="TV",AZ CINEMA
@@ -364,23 +364,21 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/147965
 #EXTINF:-1 tvg-id="Bein Sports Xtra" tvg-logo="https://www.beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",Bein Sports Xtra
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/144620
 #EXTINF:-1 tvg-id="ADRENALINA SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/AdrenalinaSportsNetwork.png/revision/latest?cb=20190116002950" group-title="DEPORTES",ADRENALINA SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1799&f=.m3u8
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1335
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37a7f2bbd24082bb8f947686020c3e82.webp" group-title="DEPORTES",ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="LIGA1MAX" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES",LIGA1MAX
-https://regioplay.xyz/php/SR_REGIO_314023_/nuevotv1.php?c=139&key=SrRegio&f=.m3u8
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/252577
 #EXTINF:-1 tvg-id="WinSports" tvg-logo="https://files.winsports.co/assets/public/logo_winsports_032023.png" group-title="DEPORTES",WinSports
-http://new-tv.cloud:25461/jcloud500/perumas50/175969
+http://jagertv.us:2999/skycaster/cambio/268
 #EXTINF:-1 tvg-id="ESPN SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="DEPORTES",ESPN SUR
-http://new-tv.cloud:25461/jcloud500/perumas50/524702
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/263376
 #EXTINF:-1 tvg-id="ESPN 2 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",ESPN 2 SUR
-http://new-tv.cloud:25461/jcloud500/perumas50/524703
+http://jagertv.us:2999/skycaster/cambio/65647
 #EXTINF:-1 tvg-id="ESPN 3 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="DEPORTES",ESPN 3 SUR
-http://new-tv.cloud:25461/jcloud500/perumas50/524704
+http://51.222.43.170:8001/cinetvenvivo2694/y2fC72qL5sM4/1250
 #EXTINF:-1 tvg-id="Espn 4 sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES",Espn 4 sur
-http://new-tv.cloud:25461/jcloud500/perumas50/524705
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/151114
 #EXTINF:-1 tvg-id="ESPN EXTRA SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png" group-title="DEPORTES",ESPN EXTRA SUR
-http://new-tv.cloud:25461/jcloud500/perumas50/524706
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4940
 #EXTINF:-1 tvg-id="FOX SPORTS SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORTS SUR
 http://new-tv.cloud:25461/jcloud500/perumas50/524725
 #EXTINF:-1 tvg-id="FOX SPORTS 2 SUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORTS 2 SUR
